@@ -1,16 +1,26 @@
-## Hi there 👋
+<h2>Hi, I'm <a href="https://joeywang.ca/">Joey Wang</a>!</h2>
 
-<!--
-**nhl141/nhl141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>I'm currently working on:</h3>
+<p>
+  <ul>
+    <li><a href="https://www.planckapp.com/">Planck</a>, a cross platform clipboard 📋</li>
+    <li><a href="https://github.com/Lodestone-Team">Lodestone</a>, a server hosting tool for Minecraft ⛏️</li>
+    <li>Reading <a href="https://anilist.co/manga/118586/Frieren-Beyond-Journeys-End/">Sousou no Frieren</a> 😃</li>
+    <li>Writing <a href="https://goo.gl/maps/S65uHvYLmVSThoc86">restaurant reviews</a> 🍜</li>
+  </ul>
+</p>
 
-Here are some ideas to get you started:
+<h3>Fun facts about me:</h3>
+<p>
+  <ul>
+    <li>My <a href="https://monkeytype.com/profile/Jopee">personal best WPM</a> is 225</li>
+    <li>I've read over <a href="https://anilist.co/user/Jopee/">21000 chapters</a> of manga</li>
+    <li>I made a <a href="https://www.youtube.com/watch?v=IeQGV67qcRM">YouTube video</a> with 200k views</li>
+  </ul>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>Image credits</summary>
+  Profile pic by <a href="https://twitter.com/you_sakura_ys">桜倉ゆうすけ</a></br>
+  Image by <a href="https://twitter.com/kerorira1">kerorira1</a>
+</details>
