@@ -13,9 +13,3 @@
 
   </ul>
 </p>
-
-<details>
-  <summary>Image credits</summary>
-  Profile pic by <a href="https://twitter.com/you_sakura_ys">桜倉ゆうすけ</a></br>
-  Image by <a href="https://twitter.com/kerorira1">kerorira1</a>
-</details>
