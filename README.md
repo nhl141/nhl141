@@ -16,5 +16,3 @@
     <li>Scrolling YouTube Shorts</li>
   </ul>
 </p>
-
-![Snake animation](https://github.com/nhl141/nhl141/blob/output/github-contribution-grid-snake.svg)
