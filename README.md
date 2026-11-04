@@ -3,13 +3,14 @@
 <h3>I'm currently working on:</h3>
 <p>
   <ul>
-
+    <li>https://github.com/WATonomous/pioneer_humanoid</li>
   </ul>
 </p>
 
-<h3>Fun facts about me:</h3>
+
+<h3>❤️ I love</h3>
 <p>
   <ul>
-
+    <li>Playing piano</li>
   </ul>
 </p>
