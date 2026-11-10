@@ -4,7 +4,6 @@
 <p>
   <ul>
     <li><a href="https://github.com/WATonomous/pioneer_humanoid">Motor control systems</a></li>
-    <li>Brake Chopper PCB Design</li>
   </ul>
 </p>
 
@@ -13,6 +12,6 @@
 <p>
   <ul>
     <li>Classical Piano Repertoire (I am especially fond of Rachmaninoff and Chopin)</li>
-    <li>Scrolling YouTube Shorts</li>
+    <li><a href="https://www.chess.com/member/nhll">Chess</a></li>
   </ul>
 </p>
